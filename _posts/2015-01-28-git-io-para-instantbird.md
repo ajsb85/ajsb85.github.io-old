@@ -14,7 +14,7 @@ Un acortador de URL es un servicio que permite acortar los parámetros de una UR
 #### Uso:
 `/gitio https://github.com/alexsalas/instantbird-usability-gitio`
 
-Y la URL vanidadosa se envía a la conversación.
+Y la URL vanidosa se envía a la conversación.
 
 #### Noticia desde el blog de GitHub 
 https://github.com/blog/985-git-io-github-url-shortener
