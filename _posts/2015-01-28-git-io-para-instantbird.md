@@ -5,8 +5,8 @@ published: true
 title: Git.io para Instantbird
 ---
 
-## usability-gitio
-¿Tienes un URL de GitHub que deseas acortar? Utilice Git.io!
+## instantbird-usability-gitio
+¿Tienes un URL de GitHub que deseas acortar? ¡Utilice Git.io!
 
 #### Acortador de URL
 Un acortador de URL es un servicio que permite acortar los parámetros de una URL. Con esto se consigue codificar una URL haciéndola más pequeña para que sea más manejable y fácil de compartir y recordar. Algunos ejemplos de acortadores de url son Bit.ly, BestUrl.es ó TinYurl. Un ejemplo de URL acortada podría ser el siguiente: tomamos la URL "https://es.wikipedia.org/wiki/Acortador_de_Url" y la acortamos utilizando el servicio BestUrl.es, como resultado obtenemos la siguiente URL acortada "http://besturl.es/3v".
