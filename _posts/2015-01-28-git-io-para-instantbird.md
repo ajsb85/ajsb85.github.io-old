@@ -2,8 +2,17 @@
 layout: blog
 category: blog
 published: true
-title: Git.io para Instantbird
+title: 'Git.io para Instantbird'
+date: '2015-01-28'
+sha: 18bd30d8a29816784bea9004955048db75174ad6
+slug: git-io-para-instantbird
+info: 
+comment: 
+tags: []
+categories: []
+
 ---
+
 
 ## instantbird-usability-gitio
 ¿Tienes un URL de GitHub que deseas acortar? ¡Utilice Git.io!
@@ -14,7 +23,7 @@ Un acortador de URL es un servicio que permite acortar los parámetros de una UR
 #### Uso:
 `/gitio https://github.com/alexsalas/instantbird-usability-gitio`
 
-Y la URL vanidosa se envía a la conversación.
+Y la URL se envía a la conversación.
 
 #### Noticia desde el blog de GitHub 
 https://github.com/blog/985-git-io-github-url-shortener
