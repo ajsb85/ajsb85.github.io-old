@@ -4,7 +4,7 @@ category: blog
 published: true
 title: 'Git.io para Instantbird'
 date: '2015-01-28'
-sha: 18bd30d8a29816784bea9004955048db75174ad6
+sha: 8c937e3135a0c026ce285d732f97c141deb464e1
 slug: git-io-para-instantbird
 info: 
 comment: 
